@@ -1,0 +1,1 @@
+g++ src/main.cpp src/cryptography.cpp -I./include/- -I./deps/include -L./deps/lib -lbotan-3 -lsfml-system -lsfml-window -lsfml-network -static -DSFML_STATIC

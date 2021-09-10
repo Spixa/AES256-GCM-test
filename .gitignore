@@ -1,0 +1,8 @@
+**.dll
+**.so
+**.exe
+bkp
+.vscode
+**.swp
+**.exec-*
+deps/lib/**
